@@ -1,11 +1,11 @@
 {
   "version": "v0.4.3",
-  "notes": "Testing updater on Tauri",
+  "notes": "First update with Tauri updater",
   "pub_date": "2023-10-04T11:05:33-06:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZjJhaTh1N29ELzRYZm1tVUhqZ3NtWFNqWlVqbnhKNFVyVGpMenZQaDJONTdkOGFLWWZUdmRGOG96S0Ryeml3aVZsZkpNZjFLTlRpcXJNeW80WUlWelFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2MzYxNzcwCWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuMi4wX3g2NF9lbi1VUy5tc2kuemlwCkZaTDdwYnlxYzQ0elc4WTYxb3B2N09hc2tveWQ4UFdPQmhFenBtdXhEcVZKOFAwL0RORC84clZyTFVOcy9pY3B3QXJiQ1VKSXQ1QTZsMDhVUTA2Z0N3PT0K",
-      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform/releases/download/v0.4.5/pv-lab-platform_0.2.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZjIxK0NhR0FIWGlVRWFvS0VzZEdkeUgzZzVibzZWbnBjekZrNHk4UGhrckJsKzZSdnJvVWJsZElMUHBiUzNMTkpKRE5CTzN3SW04K2tKSU9haEVSQnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2NDQwMzEyCWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuNC4zX3g2NF9lbi1VUy5tc2kuemlwCmVWbTVscEV5Y1g3NVJQN2Z5UjR1RlR4dUR5RVVhSmgrOWJhOUVFUUpneTN3cVRJeUhmSkFDdVJDTnhPSE5ZdEZTd2FUNUJaYUY4cDhKQzFDQkRSa0NRPT0K",
+      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform/releases/download/main/pv-lab-platform_0.4.3_x64_en-US.msi.zip"
     }
   }
 }
