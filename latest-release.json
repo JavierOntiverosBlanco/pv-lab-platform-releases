@@ -4,8 +4,8 @@
   "pub_date": "2023-10-04T11:05:33-06:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZjIxK0NhR0FIWGlVRWFvS0VzZEdkeUgzZzVibzZWbnBjekZrNHk4UGhrckJsKzZSdnJvVWJsZElMUHBiUzNMTkpKRE5CTzN3SW04K2tKSU9haEVSQnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2NDQwMzEyCWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuNC4zX3g2NF9lbi1VUy5tc2kuemlwCmVWbTVscEV5Y1g3NVJQN2Z5UjR1RlR4dUR5RVVhSmgrOWJhOUVFUUpneTN3cVRJeUhmSkFDdVJDTnhPSE5ZdEZTd2FUNUJaYUY4cDhKQzFDQkRSa0NRPT0K",
-      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform/releases/download/main/pv-lab-platform_0.4.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZnlOWDRIMHI1TGxtNG9lTGJNbUZSbEIyV3dXNUs1c3RNM2gzeXFwUlJXZHV4NE1QUDZsRUJybU91RjR2d1hqR2F4M0kvMVd3YnMzYlhKcE1GMWFGcFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2NDQ3NjY5CWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuNC40X3g2NF9lbi1VUy5tc2kuemlwCmk1K0tWaUpDUHhMT0xtQVRVdG5qYkc4Y2hGRTlQeTRhOFN1NStoNkh0YzJuekdJSlVMQXhYL0czbGU2cUI1bU8zVXI2RzRicjhIZHFwZW9xS1BRRkJnPT0K",
+      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform/releases/download/main/pv-lab-platform_0.4.4_x64_en-US.msi.zip.sig"
     }
   }
 }
