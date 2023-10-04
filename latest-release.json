@@ -1,5 +1,5 @@
 {
-  "version": "v0.4.3",
+  "version": "v0.4.4",
   "notes": "First update with Tauri updater",
   "pub_date": "2023-10-04T11:05:33-06:00",
   "platforms": {
