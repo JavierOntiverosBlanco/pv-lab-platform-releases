@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "notes": "Here you will find v0.5.7 binaries to download.",
-  "pub_date": "2023-12-07T21:08:22.873Z",
+  "version": "0.5.8",
+  "notes": "Here you will find v0.5.8 binaries to download.",
+  "pub_date": "2023-12-12T19:23:26.904Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZjg2OUxEazR4M2FSdXlyVGc5VkpKRmpjbjhTcEpteWM0RXJtWDM1SklLWDZ1ZWpsbm1pQXFES0ZVZzVub003QUFnRGFTd05GSlZ4OTZaNFJJbTVJWUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxOTgzMjk3CWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuNS43X3g2NF9lbi1VUy5tc2kuemlwCjNRYkc3cDcraGwxVndJYW1ZMGVxUURTd2ZCaUpDZ016RlUwZm9Dd3ZvUVpqQkd5dXVXcm00VVVTY0hnWlQzTkJzbk9DS2V4ZFNudlhGZEZWRTBkZUFBPT0K",
-      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform-releases/releases/download/v0.5.7/pv-lab-platform_0.5.7_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3pFalpCcTdXZjJLak1lR0JyaXhNVVd3MXVkSTFnU3A0cW1UVWo0VmlUaWtDbldwRFJzNVUvdEROajRlL0ZXMDU1SkJPQkRORjEwZjFrU0ZLdHZ5ZitGTnlDQ1VRWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyNDA4OTk3CWZpbGU6cHYtbGFiLXBsYXRmb3JtXzAuNS44X3g2NF9lbi1VUy5tc2kuemlwCmlvNWsydFE2QWhFZVh3S1B3OTVPS0RNYVlPWk1ZSkVlRG5hb1V1UW5ybFlsRkZtV2hKSDZpZGlzdHBwalBGdGJGV0NwNU9BV1lvWmpQcUFSYlYxdEF3PT0K",
+      "url": "https://github.com/JavierOntiverosBlanco/pv-lab-platform-releases/releases/download/v0.5.8/pv-lab-platform_0.5.8_x64_en-US.msi.zip"
     }
   }
 }
